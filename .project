@@ -6,6 +6,7 @@
 		<project>FreshToday-EJB</project>
 		<project>FreshToday-EJBClient</project>
 		<project>FreshToday-EJBClient1</project>
+		<project>FreshToday-NotificationApplication</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
